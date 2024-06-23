@@ -4,5 +4,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Java is the best");
 
+        //napravena e izmena
+        System.out.println("Is changed");
+
     }
 }
