@@ -7,5 +7,6 @@ public class Main {
         //napravena e izmena
         System.out.println("Is changed");
 
+        //vtora izmena
     }
 }
